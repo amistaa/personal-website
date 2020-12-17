@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Miyamoto",
+    "image": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/Discord-Featured-796x417.jpg",
+    "date": "2019",
+    "desc": "Autoposting Discord bot using DiscordJs with NodeJs as Backend.",
+    "url": "https://github.com/Alivaa/Miyamoto"
+  },
+  {
+    "name": "Aona",
+    "image": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/Discord-Featured-796x417.jpg",
+    "date": "2019",
+    "desc": "Discord bot services.",
+    "url": "https://github.com/Aona-Services"
+  },
+  {
+    "name": "Amista",
+    "image": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/Discord-Featured-796x417.jpg",
+    "date": "2020",
+    "desc": "Multipurpose bot with anime images, fun commands, osu! and much more.",
+    "url": "https://top.gg/bot/666554392241111040"
+  },
+  {
+    "name": "Random Anime",
+    "image": "https://camo.githubusercontent.com/355052b0f0db2bbea4ad5d55e0e35685ad6e799374ab6bb49949207a28686ecb/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3636363537333332313839343233323039352f3639303936313935303532373731373435362f72616e646f6d2d616e696d652e706e67",
+    "date": "2020",
+    "desc": "Generate random anime images.",
+    "url": "https://github.com/amistaa/random-anime"
+  },
+  {
+    "name": "Sweet Secret Girl",
+    "image": "https://www.mime.asia/wp-content/uploads/2018/09/puppeteer.png",
+    "date": "2020",
+    "desc": "Scrape images from other websites using Puppeteer.",
+    "url": "https://facebook.com/Sweet-Secret-Girls-109981864190691"
+  },
+  {
+    "name": "Animeku",
+    "image": "https://reactjs.org/logo-og.png",
+    "date": "2020",
+    "desc": "Mobile application for download and streaming anime using React Native.",
+    "url": "https://github.com/animeku"
+  }
+]
