@@ -5,7 +5,7 @@ const App = () => {
     <div
       className="bg-cover bg-center"
       style={{
-        backgroundImage: "url(./background)",
+        backgroundImage: "url(./background.jpg)",
       }}
     >
       <div className="flex flex-col items-center justify-center h-screen">
