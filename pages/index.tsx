@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Head from "next/head";
 
 const App = () => {
   return (
@@ -8,6 +9,10 @@ const App = () => {
         backgroundImage: "url(./background.jpg)",
       }}
     >
+      <Head>
+        <title>Amista | Personal Website</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      </Head>
       <div className="flex flex-col items-center justify-center h-screen">
         <div className="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/2 ">
           <article className="overflow-hidden rounded-lg shadow-lg bg-white">

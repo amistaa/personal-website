@@ -1,9 +1,14 @@
 import ProjectAPI from "./api/ProjectAPI.json";
 import Link from "next/link";
+import Head from "next/head";
 
 const Project = () => {
   return (
     <>
+      <Head>
+        <title>Amista | Project</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      </Head>
       <div className="fixed flex w-full bg-white border-b items-center justify-between flex-wrap p-4 m-auto top-0 animated z-10">
         <Link href="/">
           <a className="hover:text-blue-400 text-bs pl-3">🡰 Back</a>
